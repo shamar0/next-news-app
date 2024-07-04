@@ -24,7 +24,7 @@ export default function Footer() {
       </div>
       <div className="row mt-3 ">
         <div className="col-md-4">
-          <p>tasbiya.news.in <span style={{fontWeight:"150"}}>Pte. Ltd. &copy;COPYRIGHT 2024</span></p>
+          <p>tasbiya <span style={{fontWeight:"150"}}>Pte. Ltd. &copy;COPYRIGHT 2024</span></p>
         </div>
       </div>
     </div>
